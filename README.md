@@ -1,4 +1,4 @@
-# Optical Drive Research Project (ODRP)
+# Optical Disc Research Project (ODRP)
 
 The current plan is to create a program that reads data from a disc within a USB optical drive.
 I would like to support CDs at the very least, likely will try to implement DVDs as well.
